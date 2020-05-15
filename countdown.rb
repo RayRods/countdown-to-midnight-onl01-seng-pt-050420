@@ -6,7 +6,5 @@ def countdown
      puts "#{count_down} SECOND(S)!"
       count_down -= 1 
     end
-    
-    puts "HAPPY NEW YEAR!" if count_down == 0
   sleep 1 
 end
