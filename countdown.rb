@@ -6,5 +6,5 @@ def countdown
      puts "#{count_down} SECOND(S)!"
       count_down -= 1 
     end
-  sleep 1 
+  sleep 5 
 end
